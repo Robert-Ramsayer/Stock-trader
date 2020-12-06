@@ -104,7 +104,7 @@ def buttonpress():
 def buttonpress2():
     global priceprint
     try:
-        canvas1.delete(priceprint) # remove this label if it's not needed
+        canvas1.delete(priceprint) # remove this label if it's not needed, GNU license Robert-Ramsayer
     except:
         pass
     #collect the amounts
@@ -140,7 +140,7 @@ canvas1.create_text(200, 260, text='MSFT')
 canvas1.create_text(150, 350, text='Wallet')
 canvas1.create_text(100, 300, text='Number of share')
 canvas1.create_text(280, 300, text='profits and losses in $')
-label6 = canvas1.create_window(250, 350, window=label6) # what's in the wallet right now
+label6 = canvas1.create_window(250, 350, window=label6) # what's in the wallet right now, careful when moding this, this doesn't go away. GNU license Robert-Ramsayer
 
 
 # text inputs for the user
@@ -173,7 +173,7 @@ MSFT = list(stocks['MSFT'])
 
 
 def animate(i):  # good info: https://jakevdp.github.io/blog/2012/08/18/matplotlib-animation-tutorial/
-
+                #https://github.com/Robert-Ramsayer/Stock-trader
     plt.cla()  # removes old graph data, also clears out the axis
     plt.plot(x, AAPL[past:present], c='green', marker='', label='AAPL')
     plt.plot(x, NOK[past:present], c='grey', marker='o', label='NOK')
