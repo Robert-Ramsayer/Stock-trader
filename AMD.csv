@@ -1552,3 +1552,26 @@ Date,High,Low,Open,Close,Volume,Adj Close
 2012-11-28,1.9900000095367432,1.8600000143051147,1.8799999952316284,1.9600000381469727,27471900,1.9600000381469727
 2012-11-29,2.119999885559082,2.009999990463257,2.009999990463257,2.0399999618530273,42800100,2.0399999618530273
 2012-11-30,2.2200000286102295,2.109999895095825,2.1600000858306885,2.200000047683716,66853900,2.200000047683716
+
+"""
+To whom it may concern,
+Welcome, and thanks for downloading stockpractice2.0. This software is not meant for actual stock 
+trading, nor is it equiped to. Instead, it allows you to practice on old stock records. The program
+uses GE, Apple, AMD, Nokia, and MicroSoft, but you can replace these records easily. You can download 
+this software for no cost and modify it as much as you want, even for comercial use. Just give me a 
+a citation.
+
+This program is writen from the perspective of a stock trader that has a starting budget of $1000, and
+is looking at 5 stocks once a week. The stocks are not fictional; these are actual closing price records 
+from yahoo finance of GE, Apple, AMD, Nokia, and MicroSoft. These are contained in .csv files that
+are avaiable with this download. In order for the program to work, these files and the 
+stockpractice2.0 have to be in the same folder. 
+
+License:
+This program, stockpractice2.0, is licensed under the GNU license as provided by Github.com on
+December 5th, 2020. Please read the LICENSE file from this sight, 
+https://github.com/Robert-Ramsayer/Stock-trader, for the exact details. To summerize it, you don't
+need to pay me to use this software, but you do need to credit me. My purpose of this is to keep this
+free and open and help my career. I'm not going to ask for your money, but I'd really apriciate a citation.
+
+"""
