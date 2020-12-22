@@ -2,11 +2,28 @@ To whom it may concern,
 Welcome, and thanks for downloading stockpractice2.0. This software is not meant for actual stock 
 trading, nor is it equiped to. Instead, it allows you to practice on old stock records. The program
 uses GE, Apple, AMD, Nokia, and MicroSoft, but you can replace these records easily. You can download 
-this software for no cost and modify it as much as you want, even for comercial use. Just give me a 
+this software for no cost and modify it as much as you want, even for comercial use. Just give me 
 a citation.
 
 ================
+How to download:
+There are 2 ways to download this program. The first is to copy and paste the python code from my 
+github page onto your python IDE, and have the needed modules. If you can do this, great; if you 
+can't, there's option 2: download a .exe file I made. 
 
+I have a link to a google cloud account in these files. Just copy and paste the URL. You'll see 
+zip file, and a bunch of files which are the contents of the zip file. Download 1 of them. You'll 
+get a message that says that Windows thinks that the files are a virus. It's not, but Windows isn't 
+sure so it just errs on the side of caution. If you are concerned, option 1 is still available. It's 
+the same application. But if you just want it, there is no virus, I wouldn't attach my name to a virus.
+If you chose to download it, make sure you have a folder with .exe file and the .csv files together. 
+The zip file is the easiest, you just need to extract it. Click on the .exe file or the short cut. 
+Windows is again going to stop you saying it thinks this .exe might be a virus. Again, Windows doesn't 
+know what this is so it just assumes it a virus. If you'd like to run anyways, there's a line of blue 
+text in the message ' More details.' Click on it and it Windows will give you the option of running anyways. 
+My program will then boot up, but give it a minute. It's slow to boot up. 
+
+================
 How to use:
 When running, You should see 2 windows pop up, one for stocks and another inputs.The graph window is 
 just for display. The other window is what your going to be doing most of your work on. To opperate, 
